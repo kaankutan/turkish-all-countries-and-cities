@@ -1,5 +1,5 @@
-# Turkey-all-countries-and-cities
-Turkey all countries and city names.
+# Turkish-all-countries-and-cities
+Turkish all countries and city names.
 
 ```
 {
